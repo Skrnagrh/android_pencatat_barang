@@ -4,8 +4,8 @@ RisolMart adalah aplikasi Android yang memungkinkan Anda untuk mencatat, mengedi
 
 ## Fitur
 
-- Tambahkan barang baru ke daftar.
 - Lihat daftar barang yang telah dicatat.
+- Tambah data barang baru ke daftar.
 - Edit informasi barang.
 - Hapus barang dari daftar.
 
