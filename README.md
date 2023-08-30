@@ -13,11 +13,17 @@ RisolMart adalah aplikasi Android yang memungkinkan Anda untuk mencatat, mengedi
 
 Berikut adalah beberapa tampilan dari aplikasi RisolMart:
 
-<img src="https://github.com/Skrnagrh/crud-android/raw/main/Screenshot/1.png" class="d-block w-100" alt="Screenshot 1">
+## Tampilan Aplikasi
+
+| ![Tampilan 1](https://github.com/Skrnagrh/crud-android/raw/main/Screenshot/1.png) | ![Tampilan 2](https://github.com/Skrnagrh/crud-android/raw/main/Screenshot/2.png) |
+|:---:|:---:|
+| Deskripsi tampilan atau fungsi yang ditampilkan dalam gambar. | Deskripsi tampilan atau fungsi yang ditampilkan dalam gambar. |
+
+
+//<img src="https://github.com/Skrnagrh/crud-android/raw/main/Screenshot/1.png" class="d-block w-100" alt="Screenshot 1">
 *Deskripsi tampilan atau fungsi yang ditampilkan dalam gambar.*
 
 ![Tampilan 2](link_gambar_2.png)
-(https://github.com/Skrnagrh/crud-android/blob/main/Screenshot/1.png)
 *Deskripsi tampilan atau fungsi yang ditampilkan dalam gambar.*
 
 ## Instalasi
