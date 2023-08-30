@@ -17,14 +17,15 @@ Berikut adalah beberapa tampilan dari aplikasi RisolMart:
 
 | ![Tampilan 1](https://github.com/Skrnagrh/crud-android/raw/main/Screenshot/1.png) | ![Tampilan 2](https://github.com/Skrnagrh/crud-android/raw/main/Screenshot/2.png) |
 |:---:|:---:|
-| Deskripsi tampilan atau fungsi yang ditampilkan dalam gambar. | Deskripsi tampilan atau fungsi yang ditampilkan dalam gambar. |
+| Ini Gambar Splash Screen. | Halaman Untuk Login. |
 
+| ![Tampilan 1](https://github.com/Skrnagrh/crud-android/raw/main/Screenshot/3.png) | ![Tampilan 2](https://github.com/Skrnagrh/crud-android/raw/main/Screenshot/4.png) |
+|:---:|:---:|
+| Halaman Tampil Data Barang. | Halaman Untuk Tambah Data Barang. |
 
-//<img src="https://github.com/Skrnagrh/crud-android/raw/main/Screenshot/1.png" class="d-block w-100" alt="Screenshot 1">
-*Deskripsi tampilan atau fungsi yang ditampilkan dalam gambar.*
-
-![Tampilan 2](link_gambar_2.png)
-*Deskripsi tampilan atau fungsi yang ditampilkan dalam gambar.*
+| ![Tampilan 1](https://github.com/Skrnagrh/crud-android/raw/main/Screenshot/5.png) | ![Tampilan 2](https://github.com/Skrnagrh/crud-android/raw/main/Screenshot/6.png) |
+|:---:|:---:|
+| Halaman Untuk Edit Data Barang. | Halaman Informasi Aplikasi. |
 
 ## Instalasi
 
