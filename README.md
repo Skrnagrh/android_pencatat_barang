@@ -13,19 +13,19 @@ RisolMart adalah aplikasi Android yang memungkinkan Anda untuk mencatat, mengedi
 
 Berikut adalah beberapa tampilan dari aplikasi RisolMart:
 
-## Tampilan Aplikasi
 
-| ![Tampilan 1](https://github.com/Skrnagrh/crud-android/raw/main/Screenshot/1.png) | ![Tampilan 2](https://github.com/Skrnagrh/crud-android/raw/main/Screenshot/2.png) |
+| <img src="https://github.com/Skrnagrh/crud-android/raw/main/Screenshot/1.png" alt="Tampilan 1" width="50%"> | <img src="https://github.com/Skrnagrh/crud-android/raw/main/Screenshot/2.png" alt="Tampilan 2" width="50%"> |
 |:---:|:---:|
 | Ini Gambar Splash Screen. | Halaman Untuk Login. |
 
-| ![Tampilan 1](https://github.com/Skrnagrh/crud-android/raw/main/Screenshot/3.png) | ![Tampilan 2](https://github.com/Skrnagrh/crud-android/raw/main/Screenshot/4.png) |
+| <img src="https://github.com/Skrnagrh/crud-android/raw/main/Screenshot/3.png" alt="Tampilan 3" width="50%"> | <img src="https://github.com/Skrnagrh/crud-android/raw/main/Screenshot/4.png" alt="Tampilan 4" width="50%"> |
 |:---:|:---:|
 | Halaman Tampil Data Barang. | Halaman Untuk Tambah Data Barang. |
 
-| ![Tampilan 1](https://github.com/Skrnagrh/crud-android/raw/main/Screenshot/5.png) | ![Tampilan 2](https://github.com/Skrnagrh/crud-android/raw/main/Screenshot/6.png) |
+| <img src="https://github.com/Skrnagrh/crud-android/raw/main/Screenshot/5.png" alt="Tampilan 5" width="50%"> | <img src="https://github.com/Skrnagrh/crud-android/raw/main/Screenshot/6.png" alt="Tampilan 6" width="50%"> |
 |:---:|:---:|
 | Halaman Untuk Edit Data Barang. | Halaman Informasi Aplikasi. |
+
 
 ## Instalasi
 
