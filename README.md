@@ -17,6 +17,7 @@ Berikut adalah beberapa tampilan dari aplikasi RisolMart:
 *Deskripsi tampilan atau fungsi yang ditampilkan dalam gambar.*
 
 ![Tampilan 2](link_gambar_2.png)
+(https://github.com/Skrnagrh/crud-android/blob/main/Screenshot/1.png)
 *Deskripsi tampilan atau fungsi yang ditampilkan dalam gambar.*
 
 ## Instalasi
